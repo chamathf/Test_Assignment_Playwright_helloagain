@@ -1,4 +1,4 @@
-# Playwright Test Automation Project
+# Playwright Test Automation Project helloagain -Chamath Fernando
 
 This project is built using the **Playwright Framework** and **TypeScript**. The **IDE** used is **VSCode**.
 
@@ -73,4 +73,8 @@ Follow the steps below to set up your environment before running the tests.
    npx playwright test -g "Test 1: Validate Edit & Update First Name In User Details" --headed --project=firefox
 
 
-
+## NOTE
+   These test case run on chrome and firefox and Passwed without any issues
+   Chrome Version=  131.0.6778.86
+   Firefox Verison = 133.0
+   
