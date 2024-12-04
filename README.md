@@ -74,7 +74,7 @@ Follow the steps below to set up your environment before running the tests.
 
 
 ## NOTE
-   These test case run on chrome and firefox and Passwed without any issues
+   These test case run on chrome and firefox and Passed Scussfully without any issues
    Chrome Version=  131.0.6778.86
    Firefox Verison = 133.0
    
