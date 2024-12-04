@@ -70,7 +70,7 @@ Follow the steps below to set up your environment before running the tests.
 
    if you need to run in firefox browser
 
-   npx playwright test -g "Test 1: Validate Edit & Update First Name In User Details" --headed --project=firefox
+   npx playwright test --project=firefox --headed -g "Test 1:Validate Edit & Update First Name In User Details"
 
 
 ## NOTE
