@@ -65,9 +65,12 @@ Follow the steps below to set up your environment before running the tests.
 
 ### 2. Headed Mode
    To run the test in headed mode (with the browser UI visible), use this command:
-
+ 
    npx playwright test -g "Test 1: Validate Edit & Update First Name In User Details" --headed
 
+   if you need to run in firefox browser
+
+   npx playwright test -g "Test 1: Validate Edit & Update First Name In User Details" --headed --project=firefox
 
 
 
