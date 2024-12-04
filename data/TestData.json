@@ -1,0 +1,10 @@
+{
+  "baseURL": "https://dashboard.helloagain.com/#/login/demo-chamathdemo1",
+  "Email": "dwijayakumara13@gmail.com",
+  "Password": "kBM9Y377zk",
+  "CustomerName": "Max Mustermann",
+  "expectedCustomerName": "Max Mustermann",
+  "usersName": "max mustermann",
+  "firstName": "Maximilian",
+  "expectedUpdatedCustomerName": "Maximilian Mustermann"
+}
